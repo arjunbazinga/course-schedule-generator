@@ -117,7 +117,7 @@
 
 
      cal = ics();
-     let end = new Date(2020,4,6,10); //last day
+     let end_repeat = new Date(2020,4,6,10); //last day
       // Return an array of the selected opion values
       // select is an HTML select element
       function getSelectValues(select) {
@@ -150,7 +150,7 @@
             let d = new Date();
             d.setDate(d.getDate() + (get_day_num[day] + 7 - d.getDay()) % 7); // get closetst date with that day.
 
-            for (; d <= end; d.setDate(d.getDate() + 1)) {
+            for (; d <= end_repeat; d.setDate(d.getDate() + 1)) {
               let begin = d.toDateString().slice(4) + " "+ s.start + " GMT+0530";
               let end = d.toDateString().slice(4) + " "+ s.end + " GMT+0530";
               cal.addEvent(subject, description, Loc, begin, end, { rrule: 'FREQ=WEEKLY;INTERVAL=1'});
