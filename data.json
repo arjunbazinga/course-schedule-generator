@@ -1,0 +1,4460 @@
+{
+    "AA 202N": {
+        "slot": "K",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "12:55",
+                "room": "1E -305",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "12:55",
+                "room": "1E -305",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "12:55",
+                "room": "1E -305",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Astronomical Techniques"
+    },
+    "AA 472N/672N": {
+        "slot": "T",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -408",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -408",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -408",
+                "start": "11:00",
+                "type": "T"
+            }
+        ],
+        "title": "Galactic and Extragalactic Astronomy"
+    },
+    "AA 474N/674N": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "1E -104",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "1E -104",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "1E -104",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Radio Astronomy"
+    },
+    "AA 478/678": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -505",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -505",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -505",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Space Weather"
+    },
+    "AA 602N": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -505",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -505",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -505",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Advanced Topics in Astronomy and Astrophysics"
+    },
+    "AA 606": {
+        "slot": "X",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "16:55",
+                "room": "1E -505",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "1E -505",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "16:55",
+                "room": "1E -505",
+                "start": "16:00",
+                "type": "L"
+            }
+        ],
+        "title": "Random Signals and Applied Kalman Filtering"
+    },
+    "AA 608N": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -506",
+                "start": "15:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -506",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -506",
+                "start": "16:00",
+                "type": "L"
+            }
+        ],
+        "title": "Astrostatistics"
+    },
+    "AA 652": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Astronomy Laboratory-II"
+    },
+    "BSE 102": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E -104",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E -104",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "room not found",
+                "start": "09:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Bio-Sciences"
+    },
+    "BSE 404/604": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "SB -314A",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "SB -314A",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "SB -314A",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Biomedical Imaging"
+    },
+    "BSE 602": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "SB -209",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "SB -209",
+                "start": "16:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "SB -209",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Modern NMR Spectroscopy"
+    },
+    "BSE 606": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "SB -314A",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "SB -314A",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "SB -314A",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Molecular Virology and Viral Pathogenesis"
+    },
+    "BSE 607": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "SB -209",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "SB -209",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "SB -209",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Bioremediation Principles and Practices"
+    },
+    "BSE 610": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "SB -314A",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "SB -314A",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "SB -314A",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Cell and Developmental Biology"
+    },
+    "BSE 612": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "SB -314B",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "SB -314B",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "SB -314B",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Immunology and Immunotechnology"
+    },
+    "BSE 614": {
+        "slot": "Y",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "SB -314A",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "14:55",
+                "room": "SB -314A",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "15:55",
+                "room": "SB -314A",
+                "start": "15:00",
+                "type": "L"
+            }
+        ],
+        "title": "General Physiology"
+    },
+    "BSE 616": {
+        "slot": "Z",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "14:55",
+                "room": "SB -314A",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "13:55",
+                "room": "SB -314A",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "13:55",
+                "room": "SB -314A",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Infectious Diseases and Medical Microbiology"
+    },
+    "BSE 618": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "SB -314A",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "SB -314A",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "SB -314A",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Biostatistics and Bioinformatics"
+    },
+    "BSE 652": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Genetic Engineering Lab"
+    },
+    "BSE 702": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "SB -314B",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "SB -314B",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "SB -314B",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Applied Genetic Engineering"
+    },
+    "CE 202": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -202A",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -202A",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -202A",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Structural Mechanics-I"
+    },
+    "CE 204": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -202A",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -202A",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -202A",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Fluid Mechanics-II"
+    },
+    "CE 206": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1E -202A",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1E -202A",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "1E -202A",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Geodesy-I"
+    },
+    "CE 208": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -202A",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -202A",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -202A",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Water & Waste Water Engineering"
+    },
+    "CE 254": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Fluid Mechanics Lab-II"
+    },
+    "CE 256": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Geodesy Laboratory-I"
+    },
+    "CE 302": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -202B",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -202B",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -202B",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Geodesy-II"
+    },
+    "CE 304": {
+        "slot": "J",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "11:55",
+                "room": "1E -202B",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "11:55",
+                "room": "1E -202B",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "17:55",
+                "room": "1E -202B",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Soil Mechanics-II"
+    },
+    "CE 306": {
+        "slot": "E",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "12:55",
+                "room": "1E -202B",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "12:55",
+                "room": "1E -202B",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "12:55",
+                "room": "1E -202B",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Structural Mechanics-III"
+    },
+    "CE 308": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1E -202B",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1E -202B",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "1E -202B",
+                "start": "09:00",
+                "type": "L"
+            }
+        ],
+        "title": "Design of Structure-II"
+    },
+    "CE 310": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E -202B",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E -202B",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "1E -202B",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Transportation Engineering-I"
+    },
+    "CE 352": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Geodesy Lab-II"
+    },
+    "CE 354": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Soil Mechanics Laboratory-II"
+    },
+    "CE 358": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Design Laboratory II"
+    },
+    "CE 402": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -408",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -408",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -408",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Water Resources Engineering"
+    },
+    "CE 404": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -408",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -408",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -408",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Design of Structures-III"
+    },
+    "CE 406": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -408",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -408",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -408",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Transportation Engineering-II"
+    },
+    "CE 408": {
+        "slot": "X",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "16:55",
+                "room": "1E -205",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Wed",
+                "end": "16:55",
+                "room": "1E -205",
+                "start": "16:00",
+                "type": "L"
+            }
+        ],
+        "title": "Foundation Engineering"
+    },
+    "CE 426": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -408",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -408",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -408",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Water Resources Systems"
+    },
+    "CE 436": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "1E -304",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "1E -304",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "1E -304",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Finite Element Analysis"
+    },
+    "CE 438": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E -408",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E -408",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "1E -408",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Probabilistic and Statistical Methods in Civil Engineering"
+    },
+    "CE 448": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -505",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -505",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -505",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Pre-stressed Concrete"
+    },
+    "CH 103": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1B -201",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1B -201",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1B -201",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Chemistry"
+    },
+    "CH 202": {
+        "slot": "K",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "12:55",
+                "room": "1E -304",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "12:55",
+                "room": "1E -304",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "12:55",
+                "room": "1E -304",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Applications of Transition Metals and Lanthanides"
+    },
+    "CH 602": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "room not found",
+                "start": "15:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "room not found",
+                "start": "16:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "room not found",
+                "start": "13:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Thermodynamics, Kinetics, Electrochemistry"
+    },
+    "CH 604": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "room not found",
+                "start": "14:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "room not found",
+                "start": "13:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "room not found",
+                "start": "14:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Molecular Spectroscopy"
+    },
+    "CH 624": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "room not found",
+                "start": "13:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "room not found",
+                "start": "15:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "room not found",
+                "start": "16:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Total Synthesis and Natural Products Chemistry"
+    },
+    "CH 642": {
+        "slot": "X",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "16:55",
+                "room": "room not found",
+                "start": "16:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Wed",
+                "end": "16:55",
+                "room": "room not found",
+                "start": "16:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Applied Inorganic and Nuclear Chemistry"
+    },
+    "CH 700": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Advanced Chemistry Lab"
+    },
+    "CH 706": {
+        "slot": "Y",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Wed",
+                "end": "14:55",
+                "room": "room not found",
+                "start": "14:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Fri",
+                "end": "15:55",
+                "room": "SB -208",
+                "start": "15:00",
+                "type": "L"
+            }
+        ],
+        "title": "Photochemistry"
+    },
+    "CH 708": {
+        "slot": "Z",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "14:55",
+                "room": "SB -208",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "13:55",
+                "room": "room not found",
+                "start": "13:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Thu",
+                "end": "13:55",
+                "room": "room not found",
+                "start": "13:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Catalysis: Approaches and Applications"
+    },
+    "CH 720": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "room not found",
+                "start": "15:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "room not found",
+                "start": "15:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "room not found",
+                "start": "16:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Asymmetric Synthesis"
+    },
+    "CS 103": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1B -201",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "room not found",
+                "start": "14:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1B -201",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Computer Programming"
+    },
+    "CS 202": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -505",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -505",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -505",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Automata Theory and Logic"
+    },
+    "CS 204": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E -505",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E -505",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "1E -505",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Design and Analysis of Algorithms"
+    },
+    "CS 206": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -505",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -505",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -505",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Logic Design"
+    },
+    "CS 208": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -505",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -505",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -505",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Software Engineering"
+    },
+    "CS 254": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Design and Analysis of Algorithms Lab"
+    },
+    "CS 256": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Logic Design Lab"
+    },
+    "CS 258": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Software Engineering Lab"
+    },
+    "CS 302": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -506",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -506",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -506",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Computer Graphics and Visualization"
+    },
+    "CS 304N": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -506",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -506",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -506",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Computational Intelligence"
+    },
+    "CS 306": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -506",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -506",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -506",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Computer Networks"
+    },
+    "CS 308": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1E -506",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1E -506",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "1E -506",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Compiler Techniques"
+    },
+    "CS 352": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Computer Graphics and Visualization Lab"
+    },
+    "CS 354N": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Computational Intelligence Lab"
+    },
+    "CS 356": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Computer Networks Lab"
+    },
+    "CS 358": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Compiler Techniques Lab"
+    },
+    "CS 417/617": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "1E -506",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "1E -506",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "1E -506",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Cryptography and Network Security"
+    },
+    "CS 419/619": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -304",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -304",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -304",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Computer Vision"
+    },
+    "CS 420/620": {
+        "slot": "X",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "16:55",
+                "room": "1E -506",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "1E -506",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "16:55",
+                "room": "1E -506",
+                "start": "16:00",
+                "type": "L"
+            }
+        ],
+        "title": "Embedded Systems"
+    },
+    "EE 104": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -104",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "room not found",
+                "start": "14:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -104",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Basic Electrical and Electronics Engineering"
+    },
+    "EE 202": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -201",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -201",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -201",
+                "start": "10:00",
+                "type": "L"
+            }
+        ],
+        "title": "Signals and Systems"
+    },
+    "EE 204": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -201",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -201",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -201",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Analog Circuits"
+    },
+    "EE 206": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1E -201",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1E -201",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "1E -201",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Electrical Machines and Power Electronics"
+    },
+    "EE 208": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -201",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -201",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -201",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Digital Systems"
+    },
+    "EE 254": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Analog Circuits Lab"
+    },
+    "EE 256": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Electrical Machines Lab"
+    },
+    "EE 258": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Digital Systems Lab"
+    },
+    "EE 302": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E  -203",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E  -203",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E  -203",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Control Systems"
+    },
+    "EE 304": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E  -203",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E  -203",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "1E  -203",
+                "start": "09:00",
+                "type": "L"
+            }
+        ],
+        "title": "Digital Signal Processing"
+    },
+    "EE 306": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E  -203",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E  -203",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E  -203",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Digital Communications"
+    },
+    "EE 308": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E  -203",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E  -203",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E  -203",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Power Systems"
+    },
+    "EE 352": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Control Systems Lab"
+    },
+    "EE 356": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Communications Lab"
+    },
+    "EE 428/628": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "1E -205",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "1E -205",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "1E -205",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Advanced Memory Technology"
+    },
+    "EE 430/630": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E -205",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E -205",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "1E -205",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Analog CMOS IC Design"
+    },
+    "EE 431/631": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -205",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -205",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -205",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Organic Electronics"
+    },
+    "EE 440/640": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -205",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -205",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -205",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Analog and Mixed Signal IC Design"
+    },
+    "EE 446/646": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -205",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -205",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -205",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Information and Coding Theory"
+    },
+    "EE 447/647": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -205",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -205",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -205",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Advanced Photonics"
+    },
+    "EE 638": {
+        "slot": "X",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "16:55",
+                "room": "1E -303",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "1E -303",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "16:55",
+                "room": "1E -303",
+                "start": "16:00",
+                "type": "L"
+            }
+        ],
+        "title": "System on Programmable Chip Design"
+    },
+    "EE 642": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -303",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -303",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -303",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Wireless Communication"
+    },
+    "EE 644": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -303",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -303",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -303",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Image Processing"
+    },
+    "EE 652": {
+        "slot": NaN,
+        "slots": [],
+        "title": "System on Programmable Chip Design Lab"
+    },
+    "EE 654": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Analog and Mixed Signal IC Design Lab"
+    },
+    "EE 740": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -303",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -303",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -303",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Speech Signal Processing"
+    },
+    "ES 302": {
+        "slot": "I",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Sat",
+                "end": "11:55",
+                "room": "room not found",
+                "start": "11:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Environmental Studies:Scientific and Engineering Aspects"
+    },
+    "HS 108": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1B -201",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1B -201",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "1B -201",
+                "start": "09:00",
+                "type": "L"
+            }
+        ],
+        "title": "Fundamentals of Economics"
+    },
+    "HS 206": {
+        "slot": "K",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "12:55",
+                "room": "1E -104",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "12:55",
+                "room": "1E -104",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "12:55",
+                "room": "1E -104",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Paradigms and Turning Points"
+    },
+    "HS 208": {
+        "slot": "I",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "1E -304",
+                "start": "17:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "1E -304",
+                "start": "17:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "11:55",
+                "room": "1E -202B",
+                "start": "11:00",
+                "type": "T"
+            }
+        ],
+        "title": "French Language-II"
+    },
+    "HS 210": {
+        "slot": "K",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "12:55",
+                "room": "1E -202A",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "12:55",
+                "room": "1E -202A",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "12:55",
+                "room": "1E -202A",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Indian Economy"
+    },
+    "HS 214": {
+        "slot": "K",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "12:55",
+                "room": "1E  -203",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "12:55",
+                "room": "1E  -203",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "12:55",
+                "room": "1E  -203",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "History of Indian Culture and Civilization"
+    },
+    "HS 216": {
+        "slot": "K",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "12:55",
+                "room": "1E -204",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "12:55",
+                "room": "1E -204",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "12:55",
+                "room": "1E -204",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Introduction to Hindi Cinema"
+    },
+    "HS 302": {
+        "slot": "I",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Sat",
+                "end": "11:55",
+                "room": "room not found",
+                "start": "11:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Environmental Studies:Social Aspects"
+    },
+    "HS 412/612": {
+        "slot": "H",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "17:55",
+                "room": "1B -201",
+                "start": "17:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "14:55",
+                "room": "1B -201",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Sat",
+                "end": "15:55",
+                "room": "1B -201",
+                "start": "15:00",
+                "type": "T"
+            }
+        ],
+        "title": "Contemporary Indian Thought"
+    },
+    "HS 418/618": {
+        "slot": "T",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -304",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -304",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -304",
+                "start": "11:00",
+                "type": "T"
+            }
+        ],
+        "title": "Sustainability Studies"
+    },
+    "HS 606": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -202B",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -202B",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -202B",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Moral Philosophy"
+    },
+    "HS 608": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -104",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -104",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -104",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Nations and Nationalism"
+    },
+    "HS 616": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -204",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -204",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -204",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Advanced Sociological Theory"
+    },
+    "HS 626": {
+        "slot": "X",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "16:55",
+                "room": "1E -104",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "1E -104",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "16:55",
+                "room": "1E -104",
+                "start": "16:00",
+                "type": "L"
+            }
+        ],
+        "title": "Environmental and Natural Resource Economics"
+    },
+    "HS 641": {
+        "slot": "-",
+        "slots": [],
+        "title": "English Communication Skills"
+    },
+    "HS 724": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E  -203",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E  -203",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E  -203",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Econometrics-II"
+    },
+    "HS 742": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -104",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -104",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -104",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Twentieth Century and the European Novel"
+    },
+    "HS 747": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E -506",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E -506",
+                "start": "11:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "1E -506",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Advanced Literary Theory"
+    },
+    "IC 153": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "room not found",
+                "start": "10:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1B -201",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Engineering Graphics"
+    },
+    "IHS 402": {
+        "slot": "Z",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "14:55",
+                "room": "1B -201",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "13:55",
+                "room": "1B -201",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "13:55",
+                "room": "1B -201",
+                "start": "13:00",
+                "type": "L"
+            }
+        ],
+        "title": "Twentieth Century World History: Critical Perspectives"
+    },
+    "IHS 443/643": {
+        "slot": "J",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "11:55",
+                "room": "1E -205",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "11:55",
+                "room": "1E -205",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "17:55",
+                "room": "1E -205",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Contemporary Short Fiction"
+    },
+    "IHS 444": {
+        "slot": "Y",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "1E -104",
+                "start": "17:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "14:55",
+                "room": "1E -104",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "15:55",
+                "room": "1E -104",
+                "start": "15:00",
+                "type": "L"
+            }
+        ],
+        "title": "Literature of the Twentieth Century"
+    },
+    "IHS 482": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -104",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -104",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -104",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Introduction to International Development and Area Studies"
+    },
+    "MA 106(A)": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -104",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -104",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -104",
+                "start": "10:00",
+                "type": "L"
+            }
+        ],
+        "title": "Linear Algebra and Ordinary Differential Equation-I"
+    },
+    "MA 106(B)": {
+        "slot": "K",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "12:55",
+                "room": "room not found",
+                "start": "12:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Thu",
+                "end": "12:55",
+                "room": "room not found",
+                "start": "12:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Sat",
+                "end": "12:55",
+                "room": "room not found",
+                "start": "12:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Linear Algebra and Ordinary Differential Equation-I"
+    },
+    "MA 204": {
+        "slot": "G",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "08:55",
+                "room": "1B -201",
+                "start": "08:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "08:55",
+                "room": "1B -201",
+                "start": "08:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "08:55",
+                "room": "1B -201",
+                "start": "08:00",
+                "type": "L"
+            }
+        ],
+        "title": "Numerical Methods"
+    },
+    "MA 452/652": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -202A",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -202A",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -202A",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Theory of Transforms"
+    },
+    "MA 610": {
+        "slot": "T",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -205",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -205",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -205",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Complex Analysis"
+    },
+    "MA 612": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -202B",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -202B",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -202B",
+                "start": "14:00",
+                "type": "L"
+            }
+        ],
+        "title": "Analysis-II"
+    },
+    "MA 620": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -202A",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -202A",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -202A",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Partial Differential Equations"
+    },
+    "MA 640": {
+        "slot": "Z",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "14:55",
+                "room": "1E -205",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "13:55",
+                "room": "1E -205",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "13:55",
+                "room": "1E -205",
+                "start": "13:00",
+                "type": "L"
+            }
+        ],
+        "title": "Algebra-I"
+    },
+    "MA 680": {
+        "slot": "Y",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "1E -205",
+                "start": "17:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "14:55",
+                "room": "1E -205",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "15:55",
+                "room": "1E -205",
+                "start": "15:00",
+                "type": "L"
+            }
+        ],
+        "title": "Computational Techniques"
+    },
+    "MA 706": {
+        "slot": "T",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -204",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -104",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -204",
+                "start": "11:00",
+                "type": "T"
+            }
+        ],
+        "title": "Numerical Linear Algebra"
+    },
+    "MA 734": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -202B",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -202B",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -202B",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Fourier Analysis on Euclidean Spaces"
+    },
+    "MA 736": {
+        "slot": "Y",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "1E -303",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "14:55",
+                "room": "1E -303",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "15:55",
+                "room": "1E -303",
+                "start": "15:00",
+                "type": "L"
+            }
+        ],
+        "title": "Wavelet Analysis"
+    },
+    "MA 742": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "1E -303",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "1E -303",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "1E -303",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Commutative Algebra"
+    },
+    "MA 780": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -202B",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -202B",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -202B",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Mathematical Logic"
+    },
+    "ME 106": {
+        "slot": "E",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "12:55",
+                "room": "1E -104",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "12:55",
+                "room": "1E -104",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "12:55",
+                "room": "room not found",
+                "start": "12:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Basic Mechanical Engineering"
+    },
+    "ME 202": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -303",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -303",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -303",
+                "start": "10:00",
+                "type": "L"
+            }
+        ],
+        "title": "Strength of Materials"
+    },
+    "ME 204": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -303",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -303",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -303",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Fluid Machinery"
+    },
+    "ME 206": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1E -303",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1E -303",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "1E -303",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Thermodynamics"
+    },
+    "ME 208": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -303",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -303",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -303",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Theory of Manufacturing Processes"
+    },
+    "ME 254": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Fluid Mechanics and Machinery Lab"
+    },
+    "ME 258": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Manufacturing Processes Lab"
+    },
+    "ME 302": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -304",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -304",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -304",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Applied Thermodynamics"
+    },
+    "ME 304": {
+        "slot": "E",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "12:55",
+                "room": "1E -304",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "12:55",
+                "room": "1E -304",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "12:55",
+                "room": "1E -304",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Instrumentation and Control System"
+    },
+    "ME 306": {
+        "slot": "J",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "11:55",
+                "room": "1E -304",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "11:55",
+                "room": "1E -304",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "17:55",
+                "room": "1E -304",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Machine Design-I"
+    },
+    "ME 308": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1E -304",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1E -304",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "1E -304",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Quality Management"
+    },
+    "ME 352": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Applied Thermodynamics Lab"
+    },
+    "ME 354": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Instrumentation and Controls System Lab"
+    },
+    "ME 401": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E -303",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E -303",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "1E -303",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Machine Design-II"
+    },
+    "ME 407/607": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -305",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -305",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -305",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Biofluid Mechanics"
+    },
+    "ME 411/611": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -304",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -304",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -304",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Refrigeration and Air Conditioning"
+    },
+    "ME 413/613": {
+        "slot": "Y",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "1E -305",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "14:55",
+                "room": "1E -305",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "15:55",
+                "room": "1E -305",
+                "start": "15:00",
+                "type": "L"
+            }
+        ],
+        "title": "Internal Combustion (IC) Engines"
+    },
+    "ME 418/618": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -305",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -305",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -305",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Computational Fluid Dynamics (CFD)"
+    },
+    "ME 432/632": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -304",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -304",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -304",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Vibrations and Noise Control"
+    },
+    "ME 434/634": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -305",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -305",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -305",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Principle of Product Design"
+    },
+    "ME 437/637": {
+        "slot": "X",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "16:55",
+                "room": "1E -305",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "1E -305",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "16:55",
+                "room": "1E -305",
+                "start": "16:00",
+                "type": "L"
+            }
+        ],
+        "title": "Fracture Mechanics"
+    },
+    "ME 438/738": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -305",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -305",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -305",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Composite Materials"
+    },
+    "ME 460/660": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "1E -305",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "1E -305",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "1E -305",
+                "start": "13:00",
+                "type": "T"
+            }
+        ],
+        "title": "Technology of Surface Coating"
+    },
+    "ME 464/764": {
+        "slot": "T",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -305",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -305",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -305",
+                "start": "11:00",
+                "type": "T"
+            }
+        ],
+        "title": "Microrobotics"
+    },
+    "ME 472/672": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1E -305",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1E -305",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "room not found",
+                "start": "09:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Reliability Engineering"
+    },
+    "ME 650": {
+        "slot": "Z",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "14:55",
+                "room": "1E -305",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "13:55",
+                "room": "1E -305",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "13:55",
+                "room": "room not found",
+                "start": "13:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Materials Characterization Techniques"
+    },
+    "ME 656": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Vibrations and Noise Control Lab"
+    },
+    "MM 202": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -404",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -404",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -404",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Extractive Metallurgy"
+    },
+    "MM 204": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -404",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -404",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -404",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Physical Metallurgy-II"
+    },
+    "MM 206": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -404",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -404",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -404",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Transport Phenomenon"
+    },
+    "MM 208": {
+        "slot": "E",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "12:55",
+                "room": "1E -404",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "12:55",
+                "room": "1E -404",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "12:55",
+                "room": "1E -404",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Theory of Metal Forming"
+    },
+    "MM 254": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Physical Metallurgy Lab"
+    },
+    "MM 258": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Metal Forming Lab"
+    },
+    "MM 302": {
+        "slot": "C",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "10:55",
+                "room": "1E -406",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "10:55",
+                "room": "1E -406",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "17:55",
+                "room": "1E -406",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Welding and Foundry Engineering"
+    },
+    "MM 304": {
+        "slot": "D",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1E -406",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1E -406",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "1E -406",
+                "start": "11:00",
+                "type": "L"
+            }
+        ],
+        "title": "Corrosion Engineering"
+    },
+    "MM 306": {
+        "slot": "E",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "12:55",
+                "room": "1E -406",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "12:55",
+                "room": "1E -406",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "12:55",
+                "room": "1E -406",
+                "start": "12:00",
+                "type": "T"
+            }
+        ],
+        "title": "Powder Metallurgy"
+    },
+    "MM 308": {
+        "slot": "F",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "09:55",
+                "room": "1E -406",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "09:55",
+                "room": "1E -406",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "09:55",
+                "room": "1E -406",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Thin Films and Nano-structures"
+    },
+    "MM 310": {
+        "slot": "J",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "11:55",
+                "room": "1E -406",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "11:55",
+                "room": "1E -406",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "17:55",
+                "room": "1E -406",
+                "start": "17:00",
+                "type": "T"
+            }
+        ],
+        "title": "Ceramics Technology"
+    },
+    "MM 352": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Welding and Foundry Engineering Lab"
+    },
+    "MM 354": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Corrosion Engineering Lab"
+    },
+    "MM 402/602": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -406",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -406",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -406",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Design and Selection of Materials"
+    },
+    "MM 430/730": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -406",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -406",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -406",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Two Dimensional Materials and Electronic Devices"
+    },
+    "MM 442/642": {
+        "slot": "B",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "09:55",
+                "room": "1E -406",
+                "start": "09:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "11:55",
+                "room": "1E -406",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "09:55",
+                "room": "1E -406",
+                "start": "09:00",
+                "type": "T"
+            }
+        ],
+        "title": "Quality Assurance in Metallurgy"
+    },
+    "MM 448/648": {
+        "slot": "U",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "15:55",
+                "room": "1D -207",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "16:55",
+                "room": "1D -207",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "13:55",
+                "room": "room not found",
+                "start": "13:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Solidification and Phase Field Modeling"
+    },
+    "MM 488/688": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -406",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -406",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -406",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Electroceramics"
+    },
+    "MM 644": {
+        "slot": "T",
+        "slots": [
+            {
+                "day": "Wed",
+                "end": "11:55",
+                "room": "1D -207",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "14:55",
+                "room": "1D -207",
+                "start": "14:00",
+                "type": "T"
+            },
+            {
+                "day": "Fri",
+                "end": "11:55",
+                "room": "room not found",
+                "start": "11:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Integrated Computational Materials Engineering (ICME)"
+    },
+    "MM 646": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1D -207",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1D -207",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1D -207",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Advances in Iron and Steel Metallurgy"
+    },
+    "MM 656": {
+        "slot": "X",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "16:55",
+                "room": "1D -207",
+                "start": "16:00",
+                "type": "L"
+            },
+            {
+                "day": "Tue",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            },
+            {
+                "day": "Wed",
+                "end": "16:55",
+                "room": "1D -207",
+                "start": "16:00",
+                "type": "L"
+            }
+        ],
+        "title": "Experimental Techniques in Materials"
+    },
+    "MSE 724": {
+        "slot": "Y",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "17:55",
+                "room": "1D -207",
+                "start": "17:00",
+                "type": "T"
+            },
+            {
+                "day": "Wed",
+                "end": "14:55",
+                "room": "1D -207",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "15:55",
+                "room": "1D -207",
+                "start": "15:00",
+                "type": "L"
+            }
+        ],
+        "title": "Thin Films and Devices Fabrications"
+    },
+    "MSE 725": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -506",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -506",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -506",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Single Crystal Growth Techniques"
+    },
+    "PH 105": {
+        "slot": "E",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "12:55",
+                "room": "1B -201",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "12:55",
+                "room": "1B -201",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "12:55",
+                "room": "room not found",
+                "start": "12:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Physics-I"
+    },
+    "PH 106": {
+        "slot": "J",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "11:55",
+                "room": "1E -104",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "11:55",
+                "room": "1E -104",
+                "start": "11:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "17:55",
+                "room": "room not found",
+                "start": "17:00",
+                "type": "unknown"
+            }
+        ],
+        "title": "Physics-II"
+    },
+    "PH 620": {
+        "slot": "V",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "14:55",
+                "room": "1E -404",
+                "start": "14:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "13:55",
+                "room": "1E -404",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "14:55",
+                "room": "1E -404",
+                "start": "14:00",
+                "type": "T"
+            }
+        ],
+        "title": "Statistical Mechanics"
+    },
+    "PH 622": {
+        "slot": "W",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "13:55",
+                "room": "1E -404",
+                "start": "13:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "15:55",
+                "room": "1E -404",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "16:55",
+                "room": "1E -404",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Fundamentals of Solid State Physics"
+    },
+    "PH 624": {
+        "slot": "E",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "12:55",
+                "room": "1E -305",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "12:55",
+                "room": "1E -305",
+                "start": "12:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "12:55",
+                "room": "1E -305",
+                "start": "12:00",
+                "type": "L"
+            }
+        ],
+        "title": "Electronics"
+    },
+    "PH 660": {
+        "slot": "S",
+        "slots": [
+            {
+                "day": "Tue",
+                "end": "15:55",
+                "room": "1E -404",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Wed",
+                "end": "15:55",
+                "room": "1E -404",
+                "start": "15:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "16:55",
+                "room": "1E -404",
+                "start": "16:00",
+                "type": "T"
+            }
+        ],
+        "title": "Nuclear and Particle Physics"
+    },
+    "PH 692": {
+        "slot": NaN,
+        "slots": [],
+        "title": "Physics Laboratory-II"
+    },
+    "PH 790": {
+        "slot": "A",
+        "slots": [
+            {
+                "day": "Mon",
+                "end": "10:55",
+                "room": "1E -305",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Thu",
+                "end": "10:55",
+                "room": "1E -305",
+                "start": "10:00",
+                "type": "L"
+            },
+            {
+                "day": "Fri",
+                "end": "10:55",
+                "room": "1E -305",
+                "start": "10:00",
+                "type": "T"
+            }
+        ],
+        "title": "Statistical Methods in Physical Sciences"
+    }
+}
