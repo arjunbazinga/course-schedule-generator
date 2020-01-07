@@ -63,10 +63,12 @@
   <h3>Step 1. Select Courses</h3>
   <select id="select" multiple="multiple" size="20"></select>
   <h3>Step 2. Generate ICS file</h3>
-    <a href="#step3" onclick="generate()">Generate</a>
-  <h3 id="step3">Step 3. Download ICS file</h3>
+    <a id="test" href="#step3" onclick="generate()">Generate</a>
+  <!-- <h3 id="step3">Step 3. Download ICS file</h3>
     <a id="download_link" href="#step4" onclick="javascript:cal.download(&#39;Course Schedule&#39;)">Please Wait</a>
-  <h3 id="step4">Step 4. Add to Google Calendar</h3>
+  <h3 id="step4">Step 4. Add to Google Calendar</h3> -->
+   <h3>
+  If you're having trouble you can also add the event manually by visiting google calendar on your desktop.
   <a href="https://calendar.google.com/calendar/r/settings/export">Add to Calendar</a>
 
   <script type="text/javascript">
@@ -115,7 +117,7 @@
 
 
      cal = ics();
-
+     let end = new Date(2020,4,6,10); //last day
       // Return an array of the selected opion values
       // select is an HTML select element
       function getSelectValues(select) {
@@ -136,25 +138,29 @@
      function generate(){
        let el = document.getElementsByTagName('select')[0];
        let registered_courses = getSelectValues(el);
-       // console.log(dbbbb)
        let get_day_num = {"Sun":0, "Mon":1, "Tue":2, "Wed":3, "Thu":4, "Fri":5, "Sat":6};
        for (i = 0; i < registered_courses.length; i++) {
          course = registered_courses[i];
          let subject = course_details[course].title;
          let description = course_details[course].title +" " + course;
          for (j = 0; j < course_details[course].slots.length; j++) {
-           let s = course_details[course].slots[j];
-           let Loc = s.room;
-           let day = s.day;
-           var d = new Date();
-           d.setDate(d.getDate() + (get_day_num[day] + 7 - d.getDay()) % 7); // get closetst date with that day.
+            let s = course_details[course].slots[j];
+            let Loc = s.room;
+            let day = s.day;
+            let d = new Date();
+            d.setDate(d.getDate() + (get_day_num[day] + 7 - d.getDay()) % 7); // get closetst date with that day.
 
-           let begin = d.toDateString().slice(4) + " "+ s.start + " GMT+0530";
-           let end = d.toDateString().slice(4) + " "+ s.end + " GMT+0530";
-           cal.addEvent(subject, description, Loc, begin, end, { rrule: 'FREQ=WEEKLY;INTERVAL=1'});
-           document.getElementById("download_link").innerHTML = "Download";
+            for (; d <= end; d.setDate(d.getDate() + 1)) {
+              let begin = d.toDateString().slice(4) + " "+ s.start + " GMT+0530";
+              let end = d.toDateString().slice(4) + " "+ s.end + " GMT+0530";
+              cal.addEvent(subject, description, Loc, begin, end, { rrule: 'FREQ=WEEKLY;INTERVAL=1'});
+            }
+
          }
        }
+       cal.download("Course Schedule")
+    //   document.getElementById("test").onclick = '"javascript:cal.download(&#39;Course Schedule&#39;)"'
+    //   document.getElementById("download_link").innerHTML = "Download";
      }
 
   </script>
