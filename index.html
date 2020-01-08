@@ -84,7 +84,6 @@
          sel.appendChild(opt);
        }
     }
-
     function getSelectValues(select) {
       let result = [];
       let options = select && select.options;
@@ -116,7 +115,7 @@
     //                          'CE 404']
 
 
-     cal = ics();
+
     // let end_repeat = new Date(2020,4,6,10); //last day
       // Return an array of the selected opion values
       // select is an HTML select element
@@ -138,6 +137,8 @@
      function generate(){
        let el = document.getElementsByTagName('select')[0];
        let registered_courses = getSelectValues(el);
+       console.log(registered_courses);
+       let cal = ics();
        let get_day_num = {"Sun":0, "Mon":1, "Tue":2, "Wed":3, "Thu":4, "Fri":5, "Sat":6};
        for (i = 0; i < registered_courses.length; i++) {
          course = registered_courses[i];
@@ -149,17 +150,18 @@
             let day = s.day;
             let d = new Date();
             d.setDate(d.getDate() + (get_day_num[day] + 7 - d.getDay()) % 7); // get closetst date with that day.
-
             // for (; d <= end_repeat; d.setDate(d.getDate() + 7)) {
-              let begin = d.toDateString().slice(4) + " "+ s.start + " GMT+0530";
-              let end = d.toDateString().slice(4) + " "+ s.end + " GMT+0530";
-              cal.addEvent(subject, description, Loc, begin, end, {rrule: 'RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20200505T183000Z'});
+            let begin = d.toDateString().slice(4) + " "+ s.start + " GMT+0530";
+            let end = d.toDateString().slice(4) + " "+ s.end + " GMT+0530";
+            cal.addEvent(subject, description, Loc, begin, end, {rrule: 'RRULE:FREQ=WEEKLY;INTERVAL=1;UNTIL=20200505T183000Z'});
 
             // }
 
          }
+
        }
        cal.download("Course Schedule")
+
     //   document.getElementById("test").onclick = '"javascript:cal.download(&#39;Course Schedule&#39;)"'
     //   document.getElementById("download_link").innerHTML = "Download";
      }
